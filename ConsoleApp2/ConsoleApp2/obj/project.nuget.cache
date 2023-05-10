@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NeFrYGe7qd+56ZmZDqr+vrCzo+7/T/sfLyHJwsuI0JevfwwkgweZRLGLiA/UDKE+sTR1RmeW6QsEzUOZMceRlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KAYAYASHA\\Desktop\\New folder (2)\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KAYAYASHA\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\KAYAYASHA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
